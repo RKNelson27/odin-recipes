@@ -1,4 +1,9 @@
 img{
-    height:400px;
-    width: 300px;
+    text-align: center;
+    height:800px;
+    width: 500px;
+}
+div1{
+    font-family: tahoma;
+    text-align: center;
 }
