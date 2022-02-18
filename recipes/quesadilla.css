@@ -23,3 +23,35 @@ body{
 h3{
     color: red;
 }
+.container-1{
+    display: flex 1 1 0%;
+    margin: 0px;
+
+}
+.container-1 .box-1{
+    border: 1px black solid;
+    padding:  10px;
+    margin:  0px;
+    background: green;
+    color:  white;
+}
+
+.container-1 .box-2{
+    border: 1px black solid;
+    padding:  10px;
+    margin:  0px;
+
+    }
+.container-2{
+    display: flex 1 1 0%;
+    margin: 0px;
+}
+.container-2 .box-3{
+    border: 1px black solid;
+    padding:  10px;
+    margin: 0px;
+    background: red;
+}
+div-2 h3{
+    color: green;
+}
